@@ -1,1 +1,1 @@
-freeCodeCamp Relational Database Course projects required files
+freeCodeCamp Relational Database Course celestial bodies database project required files
